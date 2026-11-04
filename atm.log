@@ -1,0 +1,18 @@
+2026-11-04 12:02:10,759-INFO - Account created for customer: Syed
+2026-11-04 12:02:12,841-INFO - Pin Verification successful
+2026-11-04 12:02:40,414-WARNING - Pin Change Failed : incorrect old PIN
+2026-11-04 12:05:37,243-INFO - Account created for customer: Syed
+2026-11-04 12:05:41,041-INFO - Pin Verification successful
+2026-11-04 12:05:47,290-INFO - Withdrwal successful
+2026-11-04 12:05:56,104-WARNING - Invaild withdrawl amount: -255222.00
+2026-11-04 12:07:08,591-WARNING - Withdrwal declined due to insufficient balance
+2026-11-04 12:09:52,701-INFO - Account created for customer: Syed
+2026-11-04 12:09:55,496-INFO - Pin Verification successful
+2026-11-04 12:09:59,229-INFO - Balance enquiry started
+2026-11-04 12:10:04,066-INFO - Account created for customer: Syed
+2026-11-04 12:10:04,068-WARNING - Incorrect Pin entered
+2026-11-04 12:10:10,534-WARNING - Incorrect Pin entered
+2026-11-04 12:12:05,984-INFO - Pin Verification successful
+2026-11-04 12:15:05,616-INFO - Account created for customer: Syed
+2026-11-04 12:15:08,095-INFO - Pin Verification successful
+2026-11-04 12:15:27,277-WARNING - Pin Change Failed : incorrect old PIN
